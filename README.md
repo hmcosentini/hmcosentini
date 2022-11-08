@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matías Cosentini</h1>
 <h3 align="center">Engineer, creative, free thinker, entrepreneur, nature lover, curious traveler. Improving the world with technology is my goal, avoid dehumanizing people, and preserve the planet are my challenges.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmcosentini&label=Profile%20views&color=0e75b6&style=flat" alt="hmcosentini" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/humbertomatiascosentini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humbertomatiascosentini" height="30" width="40" /></a>
