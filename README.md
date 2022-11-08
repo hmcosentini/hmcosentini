@@ -4,6 +4,7 @@
 https://www.atlasiot.com/wp-content/themes/atlas-iot/assets/images/front-page-main.jpg
 
 <img src="https://komarev.com/ghpvc/?username=hmcosentini&style=flat-square&color=blue" alt=""/>
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 
 
 ![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmcosentini&count_private=true)
