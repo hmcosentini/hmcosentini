@@ -14,3 +14,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&locale=en" alt="hmcosentini" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmcosentini&" alt="hmcosentini" /></p>
+
+
+https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=hmcosentini&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
