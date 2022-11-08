@@ -1,7 +1,10 @@
 - Hi, I’m Mat electronic enginner and firmware developer.
 - I’m interested in Smart devices, IoT, AI, Smart cities and robotics.
 
-https://www.atlasiot.com/wp-content/themes/atlas-iot/assets/images/front-page-main.jpg
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.atlasiot.com/wp-content/themes/atlas-iot/assets/images/front-page-main.jpg)" width="100"/>
+</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=hmcosentini&style=flat-square&color=blue" alt=""/>
 https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
