@@ -13,5 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="hmcosentini" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hmcosentini)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hmcosentini)](https://git.io/streak-stats)
