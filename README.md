@@ -28,12 +28,25 @@ I'm a passionate engineer who believes in using technology as a force for positi
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Pascal](https://img.shields.io/badge/-Pascal-FF6B6B?style=flat-square&logo=delphi&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=flat-square&logo=assemblyscript&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Large Language Models](https://img.shields.io/badge/-LLMs-00A67E?style=flat-square&logo=openai&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/-Neural_Networks-FF4B4B?style=flat-square&logo=brain&logoColor=white)
+
+### Embedded Systems & RTOS
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-8BC3FF?style=flat-square&logo=freertos&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/-ESP_IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Nordic SDK](https://img.shields.io/badge/-Nordic_SDK-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ### Technologies & Tools
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Borland](https://img.shields.io/badge/-Borland-0066CC?style=flat-square&logo=borland&logoColor=white)
 
 ### Platforms & Databases
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
