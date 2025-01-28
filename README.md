@@ -46,5 +46,5 @@ I'm a passionate engineer who believes in using technology as a force for positi
 
 <div align="center">
   <a href="https://github.com/hmcosentini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=355C7D&icon_color=355C7D&title_color=355C7D&text_color=68789B"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=4391F4&icon_color=4391F4&title_color=4391F4&text_color=68789B"/>
 </div>
