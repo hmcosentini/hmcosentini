@@ -49,6 +49,4 @@ I'm a passionate engineer who believes in using technology as a force for positi
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=355C7D&icon_color=355C7D&title_color=355C7D&text_color=68789B"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmcosentini&layout=compact&theme=transparent&count_private=true&hide=jupyter%20notebook&border_color=355C7D&title_color=355C7D&text_color=68789B"/>
   </a>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hmcosentini&theme=transparent&border=355C7D&ring=355C7D&fire=355C7D&currStreakNum=68789B&sideNums=68789B&currStreakLabel=355C7D&sideLabels=355C7D&dates=68789B"/>
 </div>
