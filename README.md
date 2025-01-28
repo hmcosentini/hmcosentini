@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Hello" width="150"/>
-  
+
   # Hello World, I'm Matías Cosentini! 👋
   
   [![Linkedin Badge](https://img.shields.io/badge/-Matías_Cosentini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/humbertomatiascosentini)](https://linkedin.com/in/humbertomatiascosentini)
