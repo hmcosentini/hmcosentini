@@ -30,11 +30,14 @@ I'm a passionate engineer who believes in using technology as a force for positi
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Pascal](https://img.shields.io/badge/-Pascal-FF6B6B?style=flat-square&logo=delphi&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=flat-square&logo=assemblyscript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Large Language Models](https://img.shields.io/badge/-LLMs-00A67E?style=flat-square&logo=openai&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/-Neural_Networks-FF4B4B?style=flat-square&logo=brain&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative_AI-6B46C1?style=flat-square&logo=openai&logoColor=white)
 
 ### Embedded Systems & RTOS
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-8BC3FF?style=flat-square&logo=freertos&logoColor=white)
@@ -44,6 +47,7 @@ I'm a passionate engineer who believes in using technology as a force for positi
 
 ### Technologies & Tools
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Borland](https://img.shields.io/badge/-Borland-0066CC?style=flat-square&logo=borland&logoColor=white)
@@ -53,11 +57,4 @@ I'm a passionate engineer who believes in using technology as a force for positi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/hmcosentini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmcosentini&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&border_color=4391F4&icon_color=4391F4&title_color=4391F4&text_color=68789B"/>
 </div>
