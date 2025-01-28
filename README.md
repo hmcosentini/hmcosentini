@@ -15,12 +15,13 @@
   ## 🚀 About Me
 
   I'm a passionate engineer who believes in using technology as a force for positive change. My mission is to create innovative solutions while ensuring we don't lose sight of our humanity and environmental responsibility.
-
-🌱 Always learning and growing
-🤝 Open to collaborations
-🌍 Curious traveler
-💡 Free thinker
 </div>
+
+- 🌱 Always learning and growing
+- 🤝 Open to collaborations
+- 🌍 Curious traveler
+- 💡 Free thinker
+
 
 <div align="center">
   
