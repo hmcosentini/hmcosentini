@@ -10,16 +10,22 @@
   > "Improving the world with technology while preserving humanity and our planet"
 </div>
 
-## 🚀 About Me
+<div align="center">
+  
+  ## 🚀 About Me
 
-I'm a passionate engineer who believes in using technology as a force for positive change. My mission is to create innovative solutions while ensuring we don't lose sight of our humanity and environmental responsibility.
+  I'm a passionate engineer who believes in using technology as a force for positive change. My mission is to create innovative solutions while ensuring we don't lose sight of our humanity and environmental responsibility.
 
-- 🌱 Always learning and growing
-- 🤝 Open to collaborations
-- 🌍 Curious traveler
-- 💡 Free thinker
+  - 🌱 Always learning and growing
+  - 🤝 Open to collaborations
+  - 🌍 Curious traveler
+  - 💡 Free thinker
+</div>
 
-## 🛠️ Technical Stack
+<div align="center">
+  
+  ## 🛠️ Technical Stack
+</div>
 
 <div align="center">
 
@@ -31,6 +37,7 @@ I'm a passionate engineer who believes in using technology as a force for positi
 ![Pascal](https://img.shields.io/badge/-Pascal-FF6B6B?style=flat-square&logo=delphi&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=flat-square&logo=assemblyscript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -47,8 +54,9 @@ I'm a passionate engineer who believes in using technology as a force for positi
 ### Technologies & Tools
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Borland](https://img.shields.io/badge/-Borland-0066CC?style=flat-square&logo=borland&logoColor=white)
 
 ### Platforms & Databases
