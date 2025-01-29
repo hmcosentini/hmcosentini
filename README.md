@@ -48,8 +48,11 @@
 ### Embedded Systems & RTOS
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-8BC3FF?style=flat-square&logo=freertos&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/-ESP_IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Nordic SDK](https://img.shields.io/badge/-Nordic_SDK-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
+![Nordic MCU](https://img.shields.io/badge/-Nordic_MCU-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ATMEL](https://img.shields.io/badge/-ATMEL-ED1B2D?style=flat-square&logo=microchip&logoColor=white)
 
 ### Technologies & Tools
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -58,6 +61,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Borland](https://img.shields.io/badge/-Borland-0066CC?style=flat-square&logo=borland&logoColor=white)
+![GCC](https://img.shields.io/badge/-GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 ### Platforms & Databases
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
