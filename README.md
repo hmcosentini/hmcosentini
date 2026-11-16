@@ -33,11 +33,15 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Pascal](https://img.shields.io/badge/-Pascal-FF6B6B?style=flat-square&logo=delphi&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ## AI & LLM Agents
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Large Language Models](https://img.shields.io/badge/-LLMs-00A67E?style=flat-square&logo=openai&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/-Neural_Networks-FF4B4B?style=flat-square&logo=brain&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/-Generative_AI-6B46C1?style=flat-square&logo=openai&logoColor=white)
 ![LLM Agents & Harnesses](https://img.shields.io/badge/-LLM_Agents_%26_Harnesses-8A6FC1?style=flat-square&logo=terminal&logoColor=white)
 
@@ -49,6 +53,7 @@
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-E1251B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Nordic SDK](https://img.shields.io/badge/-Nordic_SDK-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
+![Nordic MCU](https://img.shields.io/badge/-Nordic_MCU-00A9CE?style=flat-square&logo=nordicsemiconductor&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ATMEL / Microchip](https://img.shields.io/badge/-ATMEL-ED1B2D?style=flat-square&logo=microchip&logoColor=white)
 
@@ -59,7 +64,12 @@
 
 ## Tools & Platforms
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Borland](https://img.shields.io/badge/-Borland-0066CC?style=flat-square&logo=borland&logoColor=white)
 ![GCC](https://img.shields.io/badge/-GCC-A42E2B?style=flat-square&logo=gnu&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-4F86C7?style=flat-square&logo=kicad&logoColor=white)
