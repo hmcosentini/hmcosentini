@@ -2,12 +2,6 @@
 
 **Electronic engineer — 20+ years: heavy industry → embedded & IoT products at scale → LLM agents & engineering workflows.**
 
-<div align="center">
-
-[LinkedIn](https://linkedin.com/in/humbertomatiascosentini) · [hmcosentini.nhanced.tech](https://hmcosentini.nhanced.tech)
-
-</div>
-
 ---
 
 ## About
@@ -21,6 +15,8 @@
 <div align="center">
 
 *I think before I build. Cost matters. Timing matters.*
+
+[LinkedIn](https://linkedin.com/in/humbertomatiascosentini) · [hmcosentini.nhanced.tech](https://hmcosentini.nhanced.tech)
 
 </div>
 
