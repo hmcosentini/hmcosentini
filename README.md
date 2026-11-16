@@ -18,7 +18,11 @@
 
 ---
 
+<div align="center">
+
 *I think before I build. Cost matters. Timing matters.*
+
+</div>
 
 ---
 
