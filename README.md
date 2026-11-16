@@ -16,7 +16,7 @@
 2. **Embedded & IoT products at scale** — firmware for smart grills, medical devices, hearing aids, industrial locks. 250k+ devices shipped worldwide.
 3. **LLM agents & engineering workflows** — I build agent tooling that does real engineering work: firmware, QC, dev harnesses.
 
-*I think before I build. Cost matters. Timing matters.*
+I think before I build. Cost matters. Timing matters.
 
 ---
 
