@@ -26,7 +26,7 @@
 
 ---
 
-## Programming Languages
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-363636?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-363636?style=flat-square&logo=cplusplus&logoColor=white)
@@ -37,7 +37,7 @@
 ![Pascal](https://img.shields.io/badge/Pascal-363636?style=flat-square&logo=pascal&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-363636?style=flat-square&logo=php&logoColor=white)
 
-## AI & LLM Agents
+### AI & LLM Agents
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-363636?style=flat-square&logo=tensorflow&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-363636?style=flat-square&logo=openai&logoColor=white)
@@ -45,7 +45,7 @@
 ![Generative AI](https://img.shields.io/badge/Generative_AI-363636?style=flat-square&logo=openai&logoColor=white)
 ![LLM Agents & Harnesses](https://img.shields.io/badge/LLM_Agents_%26_Harnesses-363636?style=flat-square&logo=terminal&logoColor=white)
 
-## Embedded Systems & RTOS
+### Embedded Systems & RTOS
 
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-363636?style=flat-square&logo=freertos&logoColor=white)
 ![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-363636?style=flat-square&logo=zephyrproject&logoColor=white)
@@ -57,12 +57,12 @@
 ![Arduino](https://img.shields.io/badge/Arduino-363636?style=flat-square&logo=arduino&logoColor=white)
 ![ATMEL / Microchip](https://img.shields.io/badge/ATMEL_%2F_Microchip-363636?style=flat-square&logo=microchip&logoColor=white)
 
-## IoT & Cloud
+### IoT & Cloud
 
 ![AWS IoT](https://img.shields.io/badge/AWS_IoT-363636?style=flat-square&logo=amazonaws&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-363636?style=flat-square&logo=apache&logoColor=white)
 
-## Tools & Platforms
+### Tools & Platforms
 
 ![Android](https://img.shields.io/badge/Android-363636?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-363636?style=flat-square&logo=apple&logoColor=white)
