@@ -16,6 +16,8 @@
 
 *I think before I build. Cost matters. Timing matters.*
 
+---
+
 [LinkedIn](https://linkedin.com/in/humbertomatiascosentini) · [hmcosentini.nhanced.tech](https://hmcosentini.nhanced.tech)
 
 </div>
